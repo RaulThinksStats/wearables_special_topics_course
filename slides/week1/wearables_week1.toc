@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Wearable and Implantable Technology}{2}{0}{1}
+\beamer@sectionintoc {2}{Accelerometry}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Data Resolution}{7}{0}{2}
+\beamer@sectionintoc {3}{NHANES}{9}{0}{3}
+\beamer@sectionintoc {4}{An NHANES data package}{11}{0}{4}
+\beamer@sectionintoc {5}{Analysis and Feature Extraction}{17}{0}{5}
+\beamer@subsectionintoc {5}{1}{Scalar Features}{20}{0}{5}
+\beamer@subsectionintoc {5}{2}{Functional Features}{21}{0}{5}
+\beamer@sectionintoc {6}{Class Project}{28}{0}{6}

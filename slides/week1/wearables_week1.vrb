@@ -1,0 +1,13 @@
+\frametitle{Predicting 5-year mortality in NHANES}
+\begin{itemize}
+\item See vignette ''5-year mortality prediction in NHANES with Lab Measurements''  in the {\it rnhanesdata} package
+
+\begin{knitrout}\small
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
+\begin{alltt}
+\hlkwd{browseVignettes}\hlstd{(}\hlkwc{package}\hlstd{=}\hlstr{"rnhanesdata"}\hlstd{)}
+\end{alltt}
+\end{kframe}
+\end{knitrout}
+\item Assesses the predictive value of scalar accelerometry features compared to standard predictors of mortality
+\end{itemize}
