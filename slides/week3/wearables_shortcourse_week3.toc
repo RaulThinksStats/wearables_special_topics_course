@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Background}{2}{0}{1}
+\beamer@sectionintoc {2}{PA, HR, and HRR}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Marginal Models}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{Subject Specific Effects}{20}{0}{2}
+\beamer@sectionintoc {3}{Application: Fatigability}{25}{0}{3}
+\beamer@sectionintoc {4}{Future Work}{27}{0}{4}
+\beamer@sectionintoc {5}{Scalar on Function Regression}{28}{0}{5}
+\beamer@sectionintoc {6}{Application: Predicting Alcohol Consumption}{30}{0}{6}

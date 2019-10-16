@@ -13,7 +13,7 @@ rm(list=ls())
 ##                  * employment status
 ##  - Section 2: Data applicationds/model fitting
 ##              2a: Exploratory and model fitting for FoFR modelling activity as a function of age, gender and weekend vs weekday
-##              2b. Process new variables of interest which were downloaded in 1a
+##              2b. Exploratory analysis of PA vs race, gender, and employment status
 
 
 ########################################
