@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Background}{2}{0}{1}
+\beamer@sectionintoc {2}{The Idea}{3}{0}{2}
+\beamer@sectionintoc {3}{Results}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Prediting Subject-specific Characteristics}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Prediting Subjects}{9}{0}{3}
+\beamer@sectionintoc {4}{Concluding Remarks}{14}{0}{4}
