@@ -393,7 +393,7 @@ process which we measure
 \item In regression analyses, functional data can either be the outcome of interest or a predictor
 \item In this course we'll discuss 2 methods
     \begin{itemize}
-    \item Function-on-function regression (FoFR)
+    \item Function-on-scalar regression (FoSR)
     \item Scalar-on-function regression (SoFR)
     \end{itemize}
 \end{itemize}
